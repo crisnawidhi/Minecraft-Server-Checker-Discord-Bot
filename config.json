@@ -1,15 +1,11 @@
 {
-  "token": "ODYyMjgyODE0MzAwNDg3NzMw.YOWFcw.6Bi3uPqnNQ24CmMm8D4BvHHQ9cw",
+  "token": "Your Token",
   "prefix": "mc!",
-  "serverAddress": "basic6.game-cloud.xyz",
-  "serverPort": "26391",
-  "serverName": "Avant Heim Cross Server Seasonal",
+  "serverAddress": "Server Address",
+  "serverPort": "Server Port",
+  "serverName": "Server name",
   "updateInterval": "1min",
   "showPlayerSample": true,
   "debugMode": true,
   "debugLvl": 1,
-  "pinUpdate": true,
-  "pinId": "956608247605919745",
-  "pinGuildId": "956592695059578900",
-  "pinChanId": "956608215179747399"
 }
